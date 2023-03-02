@@ -1,1 +1,2 @@
-This is my first text file
+This is my first text file 
+i am changing some text after reopening the file with the help of git command
